@@ -1,0 +1,1 @@
+Download and uncompress the file ftp://kakapo.ucsd.edu/pub/gilson/argo_climatology/RG_ArgoClim_Temperature_2016.nc.gz in this directory. This file contains the Roemmich-Gilson Argo temperature climatology, see http://sio-argo.ucsd.edu/RG_Climatology.html
